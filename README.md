@@ -33,4 +33,4 @@ retail-dwh-etl-plsql/
 │   ├── ddl/              # Table creation scripts
 │   ├── dml/              # Sample data for staging
 │   ├── etl/              # ETL procedure
-│   └── run_etl_pipeline.sql  # Master script to run everything
+
